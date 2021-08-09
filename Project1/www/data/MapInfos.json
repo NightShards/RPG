@@ -1,0 +1,20 @@
+[
+null,
+{"id":1,"expanded":true,"name":"旅馆1F","order":3,"parentId":3,"scrollX":809,"scrollY":514},
+{"id":2,"expanded":true,"name":"魔王城堡3F","order":1,"parentId":0,"scrollX":1047,"scrollY":674},
+{"id":3,"expanded":true,"name":"人类城镇","order":2,"parentId":0,"scrollX":1591,"scrollY":438},
+{"id":4,"expanded":true,"name":"存档点","order":6,"parentId":5,"scrollX":809,"scrollY":514},
+{"id":5,"expanded":true,"name":"旅馆2F","order":5,"parentId":1,"scrollX":817,"scrollY":446},
+{"id":6,"expanded":false,"name":"银色堡垒1F","order":13,"parentId":3,"scrollX":809,"scrollY":1218},
+{"id":7,"expanded":true,"name":"Troy 和 Han 的家","order":7,"parentId":3,"scrollX":817,"scrollY":446},
+{"id":8,"expanded":true,"name":"狐妖洞府","order":14,"parentId":0,"scrollX":809,"scrollY":514},
+{"id":9,"expanded":false,"name":"Zal的家","order":8,"parentId":3,"scrollX":817,"scrollY":446},
+{"id":10,"expanded":true,"name":"城外","order":15,"parentId":0,"scrollX":809,"scrollY":762},
+{"id":11,"expanded":false,"name":"迷幻的森林","order":16,"parentId":10,"scrollX":809,"scrollY":732},
+{"id":12,"expanded":false,"name":"地牢","order":4,"parentId":1,"scrollX":817,"scrollY":446},
+{"id":13,"expanded":false,"name":"Ivor小屋","order":17,"parentId":10,"scrollX":817,"scrollY":446},
+{"id":14,"expanded":false,"name":"Rive 的家","order":9,"parentId":3,"scrollX":817,"scrollY":446},
+{"id":15,"expanded":false,"name":"铁匠铺","order":10,"parentId":3,"scrollX":817,"scrollY":446},
+{"id":16,"expanded":true,"name":"Adonis的家","order":11,"parentId":3,"scrollX":817,"scrollY":446},
+{"id":17,"expanded":false,"name":"地下室","order":12,"parentId":16,"scrollX":817,"scrollY":446}
+]
